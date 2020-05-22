@@ -13,4 +13,4 @@ Aplicação Web/Mobile. Match de desenvolvedores usando a API pública do GitHub
 
 ## Authors
 
-* **Rocketseat ©** - *Original work* - [Rocketseat](https://rocketseat.com.br/)
+* [**Rocketseat ©**](https://rocketseat.com.br/) - *Original work*
