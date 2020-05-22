@@ -10,6 +10,7 @@ Aplicação Web/Mobile. Match de desenvolvedores usando a API pública do GitHub
 * Reactjs
 * React-native
 * MongoDB
+* Docker
 
 ## Authors
 
